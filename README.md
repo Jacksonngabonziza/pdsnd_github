@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+31 july 2020.
 
 ### Project Title
-Replace the Project Title
+Bikesharing 
 
 ### Description
-Describe what your project is about and what it does
+
+The project helps to answer varius  questions about bike sharing in three cities
+in th US i,e New York,Washington and Chicago.
 
 ### Files used
-Include the files used
+The project include bikeshare.py: a python file that includes the code
+The datasets of the three cities
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+In this project i used different online resource 
+https://stackoverflow.com
+https://udacity.com
+
 
