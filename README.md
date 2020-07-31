@@ -11,11 +11,14 @@ in th US i,e New York,Washington and Chicago.
 
 ### Files used
 The project include bikeshare.py: a python file that includes the code
-The datasets of the three cities
+The datasets of the three cities:-washington.csv
+                                 -chicago.csv
+                                 -newyork.csv
 
 ### Credits
 In this project i used different online resource 
 https://stackoverflow.com
 https://udacity.com
+ 
 
 
