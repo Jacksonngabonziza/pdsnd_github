@@ -28,7 +28,8 @@ def get_filters(city, month, day):
     while True:
         time = input("Do you want to filter as month, day, all or none?\n").lower()               
         if time == 'month':
-            month = input("Which month? January, Feburary, March, April, May or June?\n").lower()
+            print(("Which month? January, Feburary, March, April, May or June?\n"))
+            month = input("Please note that months beyond june is out of the scope of my project \n").lower() 
             day = 'all'
             break
                     
@@ -38,7 +39,8 @@ def get_filters(city, month, day):
             break
                     
         elif time == 'all':
-            month = input("Which month? January, Feburary, March, April, May or June?\n").lower()           
+            print(("Which month? January, Feburary, March, April, May or June?\n"))
+            month = input("Please note that months beyond june is out of the scope of my project \n").lower()           
             day = input("Which day? Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or Sunday\n").lower()
             break       
         elif time == 'none':
